@@ -7,12 +7,12 @@
  */
  
 body-style {
-    background-color: #0000FF;
+    color: #0000FF;
 }
 
 .table-border {
     border: 3px solid #FFFFFF;
-}
+     }
 
 #photo-style {
     max-width:200px;
