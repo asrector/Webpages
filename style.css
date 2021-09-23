@@ -1,0 +1,21 @@
+/*
+ *Name:Avari Rector
+ *UnityID: asrector
+ *Date: 9/23/21
+ *Assignment: Independed assignment 5
+ *Description: Work for independed assignment 5 E115 301
+ */
+ 
+body style {
+    background-color: #0000FF;
+}
+
+.table-border {
+    border: 1px solid #FFFFFF;
+}
+
+#photo-style {
+    max-width:200px;
+    max-height: 250px;
+    border: 2px solid #008000;
+}
