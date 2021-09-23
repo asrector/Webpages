@@ -6,12 +6,12 @@
  *Description: Work for independed assignment 5 E115 301
  */
  
-body style {
+body-style {
     background-color: #0000FF;
 }
 
 .table-border {
-    border: 1px solid #FFFFFF;
+    border: 3px solid #FFFFFF;
 }
 
 #photo-style {
